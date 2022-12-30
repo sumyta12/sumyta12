@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumyta12
-- 👀 I’m interested in ...Mearn stack development
+- 👀 I’m interested in ...MERN  stack development
 - 🌱 I’m currently learning ...next js
 - 📫 How to reach me ... sumytaalam@gmail.com
 

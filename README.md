@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumyta12
+- 👋 Hi, I’m oishi
 - 👀 I’m interested in ...MERN  stack development
 - 🌱 I’m currently learning ...next js
 - 📫 How to reach me ... 
